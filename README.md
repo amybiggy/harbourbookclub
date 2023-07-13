@@ -1,5 +1,5 @@
 **Table of Contents**
-
+---------------------------------------------------------------------------------------------------------------
 * UX
   * Site Purpose
   * Site Goal
@@ -9,7 +9,9 @@
   * New User Goals
  
 * Design
-..* Wireframes
+  * Wireframes
   * Color Scheme
   * Typography
   * Imagery
+
+**UX**
