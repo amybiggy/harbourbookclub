@@ -1,7 +1,7 @@
 **Table of Contents**
 
 * UX
-..* Site Purpose
+  * Site Purpose
   * Site Goal
   * Audience
   * Communication
