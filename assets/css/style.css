@@ -42,7 +42,7 @@ header {
 .intro-container {
     height: 50vh;
 
-    background: url(../images/Library.jpg) no-repeat center center fixed;
+    background: url(../images/library.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -54,4 +54,16 @@ p {
     color: #f4edea;
     text-align: center;
     padding-top: 70px;
+}
+
+/*-----------------------------------------------------Our Books */
+
+.booklinks {
+    height: 500px;
+}
+
+/*-----------------------------------------------------Events */
+
+#events {
+    background-color: #f4d1ae;
 }
