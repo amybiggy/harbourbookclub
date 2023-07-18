@@ -67,6 +67,27 @@ p {
     color: #f4edea;
     text-align: center;
     padding-top: 70px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.home {
+    text-decoration: none;
+    color: #12263a;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.intro-container h1 {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.intro-container p {
+    font-size: 25px;
 }
 
 /*-----------------------------------------------------Our Books */
