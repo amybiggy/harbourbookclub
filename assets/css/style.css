@@ -10,7 +10,11 @@ header {
 }
 
 .events {
-    background-color: #06bcc1;
+    background-color: #9be6e9;
+}
+
+.contactus {
+    background-color: #12263a;
 }
 
 /*-----------------------------------------------------Heading */
@@ -23,18 +27,20 @@ header {
     margin: 0;
 }
 
+.menu-container {
+    margin-top: 20px;
+}
 
 .menuitem {
     height: 60px;
-    text-align: center;
     padding: 0;
 }
 
 .menuitem a {
-    width: 75%;
+    width: 75%%;
     text-decoration: none;
     color: #12263a;
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
@@ -63,13 +69,15 @@ p {
 
 /*-----------------------------------------------------Our Books */
 
-.our-books {
+.section-header {
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 /*-----------------------------------------------------Events */
 
-.events {
+.events h2,
+h3 {
     width: 75%;
     text-decoration: none;
     color: #12263a;
@@ -81,6 +89,11 @@ p {
 
 /*-----------------------------------------------------Contact Us */
 
-
-/*-----------------------------------------------------Footer */
-
+.contact-us {
+    text-decoration: none;
+    color: #f4edea;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
