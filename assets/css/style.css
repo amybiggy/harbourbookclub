@@ -17,6 +17,10 @@ header {
     background-color: #12263a;
 }
 
+.navbar {
+    background-color: #f4edea;
+}
+
 /*-----------------------------------------------------Heading */
 
 header {
@@ -60,6 +64,7 @@ header {
     -o-background-size: cover;
     background-size: cover;
     opacity: 0.8;
+    margin-top: 95px;
 }
 
 .intro-container h1,
