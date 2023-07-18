@@ -33,14 +33,15 @@ header {
 
 .menuitem {
     height: 60px;
+    text-align: center;
     padding: 0;
 }
 
 .menuitem a {
-    width: 75%%;
+    width: 75%;
     text-decoration: none;
     color: #12263a;
-    font-size: 25px;
+    font-size: 23px;
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
@@ -58,6 +59,7 @@ header {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    opacity: 0.8;
 }
 
 .intro-container h1,
@@ -88,7 +90,6 @@ h3 {
 }
 
 /*-----------------------------------------------------Contact Us */
-
 .contact-us {
     text-decoration: none;
     color: #f4edea;
@@ -97,3 +98,5 @@ h3 {
     font-weight: 300;
     letter-spacing: 2px;
 }
+
+/*-----------------------------------------------------Footer */
