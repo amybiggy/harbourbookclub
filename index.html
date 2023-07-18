@@ -21,7 +21,7 @@
     <header>
         <div class="sticky-top navbar-expand-lg">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="container-fluid">
+                <div class="container-fluid menuitem">
                     <a class="navbar-brand" href="#home">Harbour Book Club</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,19 +29,19 @@
                     </button>
                     <nav class="collapse navbar-collapse justify-content-end" id="navbarNav">
                         <ul class="navbar-nav menu-container">
-                            <li class="nav-item list-inline-item">
+                            <li class="nav-item list-inline-item menuitem">
                                 <a class="nav-link hvr-underline-from-center" href="#ourbooks" tabindex="-1"
                                     aria-disabled="true">Our Books</a>
                             </li>
-                            <li class="nav-item list-inline-item">
+                            <li class="nav-item list-inline-item menuitem">
                                 <a class="nav-link hvr-underline-from-center" href="#events" tabindex="-1"
                                     aria-disabled="true">Events</a>
                             </li>
-                            <li class="nav-item list-inline-item">
+                            <li class="nav-item list-inline-item menuitem">
                                 <a class="nav-link hvr-underline-from-center" href="#contactus" tabindex="-1"
                                     aria-disabled="true">Contact Us</a>
                             </li>
-                            <li class="nav-item list-inline-item">
+                            <li class="nav-item list-inline-item menuitem">
                                 <button type="button" class="btn btn-primary" data-bs-toggle="modal"
                                     data-bs-target="#exampleModal">
                                     Sign In / Sign Up
@@ -57,14 +57,14 @@
             <p>Dear readers,
                 Welcome to Harbour Book Club! Are you looking for a welcoming book club where you can share your honest
                 opinions about the books you read? Then look no further! <br>
-                We meet fortnightly and read all different genres</p>
+                We meet monthly and read all different genres</p>
         </div>
     </header>
     <section id="ourbooks">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="text-center">Our Books</h2>
+                    <h2 class="text-center our-books">Our Books</h2>
                 </div>
             </div>
             <div class="row">
@@ -91,8 +91,8 @@
             </div>
         </div>
     </section>
-    <section id="events">
-        <div class="cont">
+    <section id="events" class="events">
+        <div class="container">
             <div class="row">
                 <div class="col-12">
                     <h2 class="text-center">Events</h2>
@@ -100,19 +100,19 @@
             </div>
             <div class="row">
                 <div class="col-12 col-md-4">
-                    <h3 class="text-center">3rd August</h3>
+                    <h3 class="text-center">10th August</h3>
                     <h3 class="text-center">Thursday</h3>
                     <h3 class="text-center">The Mulberry</h3>
                     <h3 class="text-center">7:30pm</h3>
                 </div>
                 <div class="col-12 col-md-4">
-                    <h3 class="text-center">17th August</h3>
+                    <h3 class="text-center">14th September</h3>
                     <h3 class="text-center">Thursday</h3>
                     <h3 class="text-center">The Mulberry</h3>
                     <h3 class="text-center">7:30pm</h3>
                 </div>
                 <div class="col-12 col-md-4">
-                    <h3 class="text-center">31st August</h3>
+                    <h3 class="text-center">12th October</h3>
                     <h3 class="text-center">Thursday</h3>
                     <h3 class="text-center">The Mulberry</h3>
                     <h3 class="text-center">7:30pm</h3>
@@ -130,7 +130,36 @@
         </div>
     </section>
     <section id="contactus">
-        <h2>Contact Us</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="text-center">Contact Us</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <form class="text-center">
+                        <div class="mb-3">
+                            <label for="fullname" class="form-label">Full Name</label>
+                            <input type="email" class="form-control" id="fullname" aria-describedby="emailHelp">
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email Address</label>
+                            <input type="password" class="form-control" id="email">
+                        </div>
+                        <div class="mb-3">
+                            <label for="phonenumber" class="form-label">Phone Number</label>
+                            <input type="password" class="form-control" id="phonenumber">
+                        </div>
+                        <div class="mb-3">
+                            <label for="submit" class="form-label">Message</label>
+                            <textarea class="form-control" id="submit" rows="4"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
     </section>
     <footer>
 

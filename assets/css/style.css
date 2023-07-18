@@ -1,8 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
 
 /*-----------------------------------------------------Colours */
-body {
+header {
     background-color: #f4edea;
+}
+
+.ourbooks {
+    background-color: #c5d8d1;
+}
+
+.events {
+    background-color: #06bcc1;
 }
 
 /*-----------------------------------------------------Heading */
@@ -15,9 +23,6 @@ header {
     margin: 0;
 }
 
-.menu-container {
-    margin-top: 20px;
-}
 
 .menuitem {
     height: 60px;
@@ -26,7 +31,7 @@ header {
 }
 
 .menuitem a {
-    width: 75%%;
+    width: 75%;
     text-decoration: none;
     color: #12263a;
     font-size: 30px;
@@ -58,6 +63,24 @@ p {
 
 /*-----------------------------------------------------Our Books */
 
-
+.our-books {
+    padding-top: 30px;
+}
 
 /*-----------------------------------------------------Events */
+
+.events {
+    width: 75%;
+    text-decoration: none;
+    color: #12263a;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/*-----------------------------------------------------Contact Us */
+
+
+/*-----------------------------------------------------Footer */
+
