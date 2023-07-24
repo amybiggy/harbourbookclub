@@ -119,6 +119,10 @@ p {
     padding-bottom: 20px;
 }
 
+.booktitle {
+    padding-top: 20px;
+}
+
 /*-----------------------------------------------------Events */
 
 .events h3 {
@@ -190,9 +194,38 @@ p {
 .social-links li a {
     margin-left: 10px;
     margin-right: 10px;
+    color: #12263a;
 }
 
+@media screen and (max-width: 500px) {
+    .contact-form {
+        width: 400px;
+    }
 
-@media screen and (max-width: 425px) {
-    max-width: 350px;
+    .map iframe {
+        width: 400px;
+    }
+
+    .eventdetails {
+        padding-bottom: 40px;
+    }
+
+    .event-times {
+        padding-bottom: 0px;
+    }
+
+    .home {
+        font-size: 25px;
+    }
+
+    #home h1 {
+        font-size: xx-large;
+        padding-top: 50px;
+    }
+
+    #home p {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+
 }
