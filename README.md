@@ -53,6 +53,9 @@ The website is designed so that anyone would be able to access it and easily ide
 ## Design
 
 #### Wireframes
+I started the design process by sketching down my idea to detemine which layout style I thought would work best. I then used the online wireframe website, Basamiq, to create the wireframes which I would work off throughout the project.
+
+![Web browser wireframe](documentation/wireframes/allwireframes.png)
 
 #### Colour Scheme
 The colour palette was created keeping in mind the name and location of the book club being named “Harbour Book Club” and located in a pub based in a marina. The colours are also not too bright which promotes a relaxing environment for reading.
