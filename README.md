@@ -66,15 +66,42 @@ I have used a different colour backgrounds to define each section.
 
 The main colours are:
 
-![Colours](documentation/testing/colours.png)
+![Colours](assets/documentation/images/colours.png)
 
 #### Typography
 
 I used the same font throughout the site in order to create continuity and to keep the site looking simple and clean. After trying our different fonts, I decided to go with Roboto and used a lighter font weight as I felt it gave the site a classier finish.
 
-![Roboto](documentation/testing/font.png)
+![Roboto](assets/documentation/images/font.png)
 
 ## Testing
+
+### Browser Testing
+I checked my webpage against the 3 top browsers; Google Chrome, Microsoft Edge and Firefox. I checked the webpage for 3 different screen sizes - PC/Laptop, iPad and mobile device
+
+| Browser        | Screen Size | Image |
+| -------        |:-----------:| -----:|
+| Chrome         | Desktop     | ![Home page](assets/documentation/images/chromebrowser.png) |
+|                | iPad        | ![Home page](assets/documentation/images/chromeipad.png)    |
+|                | Mobile      | ![Home page](assets/documentation/images/chromemobile.png)  |
+|                |             |                                                             |
+| Microsoft Edge | Desktop     | ![Home page](assets/documentation/images/edgebrowser.png)   |
+|                | iPad        | ![Home page](assets/documentation/images/edgeipad.png)      |
+|                | Mobile      | ![Home page](assets/documentation/images/edgemobile.png)    |
+|                |             |                                                             |     
+| Firefox        | Desktop     | ![Home page](assets/documentation/images/firefoxbrowser.png)|
+|                | iPad        | ![Home page](assets/documentation/images/firefoxipad.png)   |
+|                | Mobile      | ![Home page](assets/documentation/images/firefoxmobile.png) |
+
+## Code Validation
+
+### HTML and CSS Testing
+
+Once I had finished creating the webpage I ran the code through a HTML and CSS validator to make sure it was correct
+
+## Accessability Testing
+
+I used (pagespeed.web.dev) to check the accessability of my website to check that everything was completely accessible
 
 ## Deployment
 
