@@ -74,4 +74,29 @@ I used the same font throughout the site in order to create continuity and to ke
 
 ![Roboto](documentation/testing/font.png)
 
-#### Imagery
+## Testing
+
+## Deployment
+
+## Technologies Used
+
+I used a variety of technologies throughout the project.
+
+* I used HTML and CSS to create and style the website
+* I used Bootstrap to create a responsive navbar, contact form and modal [Bootstrap Website](https://getbootstrap.com/)
+* I used Github to create a repository for my project [Github Website](https://github.com/)
+* I used Balsamiq to design my wireframes [Balsamiq Website](https://balsamiq.com/)
+
+## Credits
+
+### Images
+
+I used the book cover images from Amazon for the last, now and next books. They can be found below
+
+* [Amazon link to Fairy Tale book](https://www.amazon.co.uk/Fairy-Tale-Stephen-King/dp/1399705458)
+* [Amazon link to The Spanish Love Deception book](https://www.amazon.co.uk/Spanish-Love-Deception-Elena-Armas/dp/B08X7RKXGK)
+* [Amazon link to The Silent Patient book](https://www.amazon.co.uk/Silent-Patient-Alex-Michaelides/dp/1409181634)
+
+The image I used for the background of the header is from Shutterstock and can be found here:
+
+[Library image](https://www.shutterstock.com/image-illustration/bookshelves-library-old-books-3d-render-1530516716?utm_campaign=image&utm_medium=googleimages&utm_source=schema)
