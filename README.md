@@ -125,6 +125,9 @@ I checked my webpage against the 3 top browsers; Google Chrome, Microsoft Edge a
 
 Once I had finished creating the webpage I ran the code through a HTML and CSS validator to make sure it was correct
 
+![HTML Validation](assets/documentation/images/html-validation.png)
+![CSS Validator](assets/documentation/images/css-validation.png)
+
 ### Accessability Testing
 
 I used (pagespeed.web.dev) to check the accessability of my website to check that everything was completely accessible
