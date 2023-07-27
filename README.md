@@ -9,6 +9,7 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 1. UX
 
 - Site Purpose
+- User Stories
 - Goals
 - Audience
 - Communication
@@ -27,6 +28,20 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 ### Site Purpose
 
 The purpose of the Harbour Book Club website is for readers to find a local book club to join and meet new people who share their hobby.
+
+### User Stories
+
+As a reader I want:
+
+1. A website that is easy toread and navigate
+2. Clear information about the club; where they meet, dates and times, what kind of books are read etc
+3. To feel welcome joining a new club
+
+As the owner of the club I want:
+
+1. To provide clear and relevant information regarding the book club
+2. To provide a plkace for people to ask any questions they might have regarding the club
+3. To give details of meeting and make new members feel welcome to join
 
 ### Goals
 
@@ -106,26 +121,44 @@ I checked my webpage against the 3 top browsers; Google Chrome, Microsoft Edge a
 |                |    iPad     |    ![Home page](assets/documentation/images/firefoxipad.png) |
 |                |   Mobile    |  ![Home page](assets/documentation/images/firefoxmobile.png) |
 
-## Code Validation
-
-### HTML and CSS Testing
+### HTML and CSS Validation
 
 Once I had finished creating the webpage I ran the code through a HTML and CSS validator to make sure it was correct
 
-## Accessability Testing
+### Accessability Testing
 
 I used (pagespeed.web.dev) to check the accessability of my website to check that everything was completely accessible
-
-## Deployment
 
 ## Technologies Used
 
 I used a variety of technologies throughout the project.
 
 - I used HTML and CSS to create and style the website
+- I used [Code Anywhere](https://app.codeanywhere.com/) as the development environment
 - I used Bootstrap to create a responsive navbar, contact form and modal [Bootstrap Website](https://getbootstrap.com/)
 - I used Github to create a repository for my project [Github Website](https://github.com/)
 - I used Balsamiq to design my wireframes [Balsamiq Website](https://balsamiq.com/)
+
+## Deployment
+
+The site was deployed to GitHub pages. To steps I took to deploy the site are as follows:
+
+- In the [GitHub repository](https://github.com/amybiggy/harbourbookclub), go to the Settings tab
+- Go to the [Pages tab](https://github.com/amybiggy/harbourbookclub/settings/pages) and select Main Branch in the source selection drop-down menu. Then click "Save"
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+
+### Local Deployment
+
+To clone this project into a local IDE, follow these steps:
+
+1. Follow [this link](https://github.com/amybiggy/harbourbookclub) to the GitHub repository
+2. Click the green "Code" button and copy the following URL:
+
+- https://github.com/amybiggy/harbourbookclub.git
+
+3. Open the terminal in your local IDE and change the current working directory to the location where you want the cloned directory to be made
+4. Type "git clone" and paste the URL that you copied in step 2
+5. Press enter and your local clone will be created
 
 ## Credits
 
@@ -140,3 +173,10 @@ I used the book cover images from Amazon for the last, now and next books. They 
 The image I used for the background of the header is from Shutterstock and can be found here:
 
 [Library image](https://www.shutterstock.com/image-illustration/bookshelves-library-old-books-3d-render-1530516716?utm_campaign=image&utm_medium=googleimages&utm_source=schema)
+
+### Code
+
+- Template for Navbar taken from [Bootstrap](https://getbootstrap.com/docs/5.1/components/navbar/) and customised to meet project needs
+- Template for contact form taken from [Bootstrap](https://getbootstrap.com/docs/5.1/forms/overview/) and customised to meet project needs
+- I watched [this video](https://www.youtube.com/watch?v=4U_AAGHzTok) on how to add the map into my webpage
+- Template for modal taken from [Bootstrap](https://getbootstrap.com/docs/5.1/components/modal/) and customised to meet project needs
