@@ -4,24 +4,34 @@ Harbour Book Club is a simple and user-friendly site developed for readers to fi
 
 The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookclub/)
 
+![Website respinsiveness](assets/documentation/images/am-i-responsive.png)
+
 ## Table of Contents
 
 1. UX
-
-- Site Purpose
-- User Stories
-- Goals
-- Audience
-- Communication
-- Current User Goals
-- New User Goals
+- [Site Purpose](#site-purpose)
+- [User Stories](#user-stories)
+- [Goals](#goals)
+- [Audience](#audience)
+- [Communication](#communication)
 
 2. Design
+- [Wireframes](#wireframes)
+- [Color Scheme](#colour-scheme)
+- [Typography](#typography)
 
-- Wireframes
-- Color Scheme
-- Typography
-- Imagery
+3. Testing
+ - [Browser Testing](#browser-testing)
+ - [HTML and CSS Validation](#html-and-css-validation)
+ - [Accessability](#accessability-testing)
+
+ 4. [Technologies Used](#technologies-used)
+
+ 5. [Deployment](#deployment)
+
+ 6. Credits
+ - [Images](#images)
+ - [Code](#code)
 
 ## UX
 
@@ -126,11 +136,16 @@ I checked my webpage against the 3 top browsers; Google Chrome, Microsoft Edge a
 Once I had finished creating the webpage I ran the code through a HTML and CSS validator to make sure it was correct
 
 ![HTML Validation](assets/documentation/images/html-validation.png)
+
 ![CSS Validator](assets/documentation/images/css-validation.png)
 
 ### Accessability Testing
 
 I used (pagespeed.web.dev) to check the accessability of my website to check that everything was completely accessible
+
+### Bugs Discovered
+
+When I was checking whether my website was responsive on different screen sizes, I doscovered that anything smaller than a laptop wouldn't show the map or contact form correct so I added in media queries to my CSS and this fixed the issue.
 
 ## Technologies Used
 
