@@ -143,9 +143,17 @@ Once I had finished creating the webpage I ran the code through a HTML and CSS v
 
 I used (pagespeed.web.dev) to check the accessability of my website to check that everything was completely accessible
 
+![Accessibility](assets/documentation/images/accessibility.png)
+
 ### Bugs Discovered
 
 When I was checking whether my website was responsive on different screen sizes, I doscovered that anything smaller than a laptop wouldn't show the map or contact form correct so I added in media queries to my CSS and this fixed the issue.
+
+I was having an issue with the text in my header overflowing into the section below due to the vh size I had set on the header image. I changed this size and made it slightly larger which fixed the issue
+
+### Peer Review
+
+I submitted my project for review by my peers using the Slack channel and received some positive and contrusctive criticism which I took on board. I would also like to thank my sister who has also provided some points for me to review in order to improve the overall look of my website.
 
 ## Technologies Used
 
