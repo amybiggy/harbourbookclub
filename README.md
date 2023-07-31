@@ -22,17 +22,25 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 - [Color Scheme](#colour-scheme)
 - [Typography](#typography)
 
-3. Testing
+3. Features
+
+- [Navbar](#navbar)
+- [Sections](#sections)
+- [Links](#links)
+- [Map](#map)
+- [Thank you Page](#thank-you-page)
+
+4. Testing
 
 - [Browser Testing](#browser-testing)
 - [HTML and CSS Validation](#html-and-css-validation)
 - [Accessability](#accessability-testing)
 
-4.  [Technologies Used](#technologies-used)
+5.  [Technologies Used](#technologies-used)
 
-5.  [Deployment](#deployment)
+6.  [Deployment](#deployment)
 
-6.  Credits
+7.  Credits
 
 - [Images](#images)
 - [Code](#code)
@@ -118,6 +126,32 @@ I used the same font for headings and titles throughout the site in order to cre
 I chose the font Edu SA Beginner for the text parts of the website as I wanted to go with something that was a bit more like a handwriting style, but I still wanted it to be legible.
 
 ![Edu](assets/documentation/images/edu-font.png)
+
+## Features
+
+### Navbar
+
+The navbar is static on the top of the page. This makes it easier to navigate when you are viewing the website on a smaller screen size. If it was not static at the top, the website is quite long to have to scroll back up to the top of the page. This way, you can jump straight back to the top by clicking the Harbour Book Club name on the navbar.
+
+### Sections
+
+I have divided the website into sections to cmake it easier for the user to jump straight to the information they need. The links in the navbar will jump the user to the section of the website that contains that information. For example if you click on "Events" on the navbar, the user will be directed to the Events section of the website.
+
+### Links
+
+I have added links to my website to make it easier for the user to find information they might need
+
+- I have added links to the images of the books which send you to the book on the Waterstones website which will make it easier for the user to purchase the right books if needed.
+- I have added links to social media sites which would add an extra element of conectivity if the user wished to follow the book club on them.
+- I have added a link to the venue website so that users are able to gain any information needed on where the book club will be held.
+
+### Map
+
+I have added an interactive map to the website to enable users to get directions to the venue if needed.
+
+### Thank you Page
+
+I have created a Thank You page which is displayed to users after they have submitted the contact form. Prior to adding this, the user was sent back to the top of the page, but I feel that this is important as it acknowledges that the message sent by the user and explains the next steps for them.
 
 ## Testing
 
@@ -220,6 +254,6 @@ The image I used for the background of the header is from Unsplash and can be fo
 
 ### Text
 
-I took the blurb for the Stephen King book from [here](<https://en.wikipedia.org/wiki/Fairy_Tale_(novel)#:~:text=Fairy%20Tale%20is%20a%20dark,forces%20of%20good%20and%20evil.>)
-I took the blurb for the Elena Armas book from [here](https://www.goodreads.com/book/show/54189398-the-spanish-love-deception) and adapted it to fit onto the website
-I took the blurb for the Alex Michaelides book from [here](https://www.amazon.co.uk/Silent-Patient-Alex-Michaelides/dp/1409181634)
+- I took the blurb for the Stephen King book from [here](<https://en.wikipedia.org/wiki/Fairy_Tale_(novel)#:~:text=Fairy%20Tale%20is%20a%20dark,forces%20of%20good%20and%20evil.>)
+- I took the blurb for the Elena Armas book from [here](https://www.goodreads.com/book/show/54189398-the-spanish-love-deception) and adapted it to fit onto the website
+- I took the blurb for the Alex Michaelides book from [here](https://www.amazon.co.uk/Silent-Patient-Alex-Michaelides/dp/1409181634)
