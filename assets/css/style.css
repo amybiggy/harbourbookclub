@@ -23,6 +23,12 @@ header {
 
 /*-----------------------------------------------------Heading */
 
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
 header {
     margin: 0;
 }
@@ -97,6 +103,7 @@ p {
     -o-background-size: cover;
     background-size: cover;
     opacity: 0.8;
+    margin-top: 95px;
 }
 
 .welcome {
@@ -267,6 +274,10 @@ p {
         margin-left: 0px;
     }
 
+    .beach-kindle {
+        margin-top: 75px;
+    }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -300,4 +311,14 @@ p {
         margin-top: 20px;
     }
 
+    .beach-kindle {
+        margin-top: 63px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    .beach-kindle {
+        margin-top: 103px;
+    }
 }
