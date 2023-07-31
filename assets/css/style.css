@@ -144,6 +144,20 @@ p {
     padding-top: 20px;
 }
 
+.ourbooks p {
+    margin: auto;
+    max-width: 85%;
+    margin-top: 20px;
+}
+
+.ourbooks {
+    max-width: 100%;
+}
+
+.ourbooks hr {
+    display: none;
+}
+
 /*-----------------------------------------------------Events */
 
 .events h3 {
@@ -329,6 +343,10 @@ p {
 
     .beach-kindle {
         margin-top: 63px;
+    }
+
+    .ourbooks hr {
+        display: block;
     }
 
 }
