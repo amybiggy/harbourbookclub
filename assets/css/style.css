@@ -418,3 +418,12 @@ body {
     font-size: xxx-large;
     text-align: center;
 }
+
+.thank-you p {
+    font-family: 'Edu SA Beginner', cursive;
+    background-color: #f4edea;
+    font-size: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
