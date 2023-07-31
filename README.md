@@ -151,6 +151,8 @@ When I was checking whether my website was responsive on different screen sizes,
 
 I was having an issue with the text in my header overflowing into the section below due to the vh size I had set on the header image. I changed this size and made it slightly larger which fixed the issue
 
+When viewing my website on smaller screens I was having an issue with the navbar. It was opening fine, but wouldn't collapse back again. I watched a video on youtube and realised that I had the incorrect scripts in my html. I changed these for the correct one and it fixed the issue.
+
 ### Peer Review
 
 I submitted my project for review by my peers using the Slack channel and received some positive and contrusctive criticism which I took on board. I would also like to thank my sister who has also provided some points for me to review in order to improve the overall look of my website.
