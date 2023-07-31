@@ -32,7 +32,8 @@ header {
 .navbar {
     position: fixed;
     top: 0;
-    width: 100%
+    width: 100%;
+    z-index: 100;
 }
 
 header {
@@ -120,6 +121,9 @@ p {
     font-family: 'Edu SA Beginner', cursive;
     background-color: #f4edea;
     font-size: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+    padding-top: 30px;
 }
 
 /*-----------------------------------------------------Our Books */
@@ -203,6 +207,10 @@ p {
 
 .map iframe {
     width: 500px;
+}
+
+.event-times hr {
+    display: none;
 }
 
 /*-----------------------------------------------------Contact Us */
@@ -376,6 +384,10 @@ p {
 
     .logo {
         display: none;
+    }
+
+    .event-times hr {
+        display: block;
     }
 
 }
