@@ -401,3 +401,20 @@ p {
         margin-top: 103px;
     }
 }
+
+/*-----------------------------------------------------Thank you page styling */
+
+body {
+    background-color: #f4edea;
+}
+
+.thank-you h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #12263a;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    font-size: xxx-large;
+    text-align: center;
+}
