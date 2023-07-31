@@ -40,6 +40,7 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 
 - [Images](#images)
 - [Code](#code)
+- [Text](#text)
 
 ## UX
 
@@ -197,7 +198,7 @@ I used the book cover images from Amazon for the last, now and next books. They 
 
 The image I used for the background of the header is from Unsplash and can be found here:
 
-[Library image](https://unsplash.com/photos/0SYJS6nfR10)
+[Image of someone reading a kindle on a beach](https://unsplash.com/photos/0SYJS6nfR10)
 
 ### Code
 
