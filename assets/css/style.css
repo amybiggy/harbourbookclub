@@ -75,6 +75,12 @@ header {
     letter-spacing: 2px;
 }
 
+.logo {
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
 /*-----------------------------------------------------Welcome Paragraph */
 
 
@@ -102,7 +108,7 @@ p {
     -o-background-size: cover;
     background-size: cover;
     opacity: 0.8;
-    margin-top: 95px;
+    margin-top: 115px;
 }
 
 .welcome {
@@ -310,7 +316,11 @@ p {
     }
 
     .beach-kindle {
-        margin-top: 75px;
+        margin-top: 115px;
+    }
+
+    .welcome-paragraph {
+        font-size: 25px;
     }
 
 }
@@ -352,6 +362,14 @@ p {
 
     .ourbooks hr {
         display: block;
+    }
+
+    .welcome-paragraph {
+        font-size: 20px;
+    }
+
+    .logo {
+        display: none;
     }
 
 }

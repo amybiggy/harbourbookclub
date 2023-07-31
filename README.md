@@ -174,6 +174,7 @@ I used a variety of technologies throughout the project.
 - I used Bootstrap to create a responsive navbar, contact form and modal [Bootstrap Website](https://getbootstrap.com/)
 - I used Github to create a repository for my project [Github Website](https://github.com/)
 - I used Balsamiq to design my wireframes [Balsamiq Website](https://balsamiq.com/)
+- I used Canva to design a simple logo [Canva](https://www.canva.com/)
 
 ## Deployment
 
