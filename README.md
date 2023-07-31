@@ -9,6 +9,7 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 ## Table of Contents
 
 1. UX
+
 - [Site Purpose](#site-purpose)
 - [User Stories](#user-stories)
 - [Goals](#goals)
@@ -16,22 +17,25 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 - [Communication](#communication)
 
 2. Design
+
 - [Wireframes](#wireframes)
 - [Color Scheme](#colour-scheme)
 - [Typography](#typography)
 
 3. Testing
- - [Browser Testing](#browser-testing)
- - [HTML and CSS Validation](#html-and-css-validation)
- - [Accessability](#accessability-testing)
 
- 4. [Technologies Used](#technologies-used)
+- [Browser Testing](#browser-testing)
+- [HTML and CSS Validation](#html-and-css-validation)
+- [Accessability](#accessability-testing)
 
- 5. [Deployment](#deployment)
+4.  [Technologies Used](#technologies-used)
 
- 6. Credits
- - [Images](#images)
- - [Code](#code)
+5.  [Deployment](#deployment)
+
+6.  Credits
+
+- [Images](#images)
+- [Code](#code)
 
 ## UX
 
@@ -107,9 +111,13 @@ The main colours are:
 
 #### Typography
 
-I used the same font throughout the site in order to create continuity and to keep the site looking simple and clean. After trying our different fonts, I decided to go with Roboto and used a lighter font weight as I felt it gave the site a classier finish.
+I used the same font for headings and titles throughout the site in order to create continuity and to keep the site looking simple and clean. After trying out different fonts, I decided to go with Roboto and used a lighter font weight as I felt it gave the site a classier finish.
 
 ![Roboto](assets/documentation/images/font.png)
+
+I chose the font Edu SA Beginner for the text parts of the website as I wanted to go with something that was a bit more like a handwriting style, but I still wanted it to be legible.
+
+![Edu](assets/documentation/images/edu-font.png)
 
 ## Testing
 
@@ -208,3 +216,9 @@ The image I used for the background of the header is from Unsplash and can be fo
 - Template for contact form taken from [Bootstrap](https://getbootstrap.com/docs/5.1/forms/overview/) and customised to meet project needs
 - I watched [this video](https://www.youtube.com/watch?v=4U_AAGHzTok) on how to add the map into my webpage
 - Template for modal taken from [Bootstrap](https://getbootstrap.com/docs/5.1/components/modal/) and customised to meet project needs
+
+### Text
+
+I took the blurb for the Stephen King book from [here](<https://en.wikipedia.org/wiki/Fairy_Tale_(novel)#:~:text=Fairy%20Tale%20is%20a%20dark,forces%20of%20good%20and%20evil.>)
+I took the blurb for the Elena Armas book from [here](https://www.goodreads.com/book/show/54189398-the-spanish-love-deception) and adapted it to fit onto the website
+I took the blurb for the Alex Michaelides book from [here](https://www.amazon.co.uk/Silent-Patient-Alex-Michaelides/dp/1409181634)

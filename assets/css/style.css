@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+<style>@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+</style>
 
 /*-----------------------------------------------------Colours */
 header {
@@ -81,7 +83,6 @@ p {
     color: #12263a;
     text-align: center;
     text-decoration: none;
-    text-transform: uppercase;
     letter-spacing: 2px;
 }
 
@@ -90,12 +91,6 @@ p {
     font-size: 60px;
     padding-top: 60px;
     text-shadow: 3px 5px 7px rgba(77, 77, 81, 1);
-}
-
-.intro-container p {
-    font-size: 25px;
-    text-shadow: 3px 5px 7px rgba(77, 77, 81, 1);
-    margin-top: 40px;
 }
 
 .beach-kindle {
@@ -112,6 +107,13 @@ p {
 
 .welcome {
     background-color: #f4edea;
+    text-transform: uppercase;
+}
+
+.welcome-paragraph {
+    font-family: 'Edu SA Beginner', cursive;
+    background-color: #f4edea;
+    font-size: 30px;
 }
 
 /*-----------------------------------------------------Our Books */
@@ -148,6 +150,8 @@ p {
     margin: auto;
     max-width: 85%;
     margin-top: 20px;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 20px;
 }
 
 .ourbooks {
@@ -171,6 +175,7 @@ p {
 
 .event-times {
     padding-bottom: 50px;
+    font-family: 'Edu SA Beginner', cursive;
 }
 
 .map-header {
