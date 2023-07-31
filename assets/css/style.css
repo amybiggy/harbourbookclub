@@ -272,6 +272,8 @@ p {
 
 /*-----------------------------------------------------Media queries */
 
+/*--This media query relates to laptop screen sizes--*/
+
 @media screen and (max-width: 1030px) {
     #home p {
         padding-top: 10px;
@@ -290,6 +292,8 @@ p {
         margin-left: 0px;
     }
 }
+
+/*--This media query relates to tablet screen sizes--*/
 
 @media screen and (max-width: 768px) {
 
@@ -324,6 +328,8 @@ p {
     }
 
 }
+
+/*--This media query relates to phone screen sizes--*/
 
 @media screen and (max-width: 500px) {
     .contact-form {
@@ -373,6 +379,8 @@ p {
     }
 
 }
+
+/*--This media query relates to smaller phone screen sizes--*/
 
 @media screen and (max-width: 320px) {
     .beach-kindle {
