@@ -190,14 +190,13 @@ I used (pagespeed.web.dev) to check the accessability of my website to check tha
 ### User Stories
 
 | User Story | Testing |
-| Reader Goals||
-| A website that is easy to read and navigate. | The fonts chosen for the website are clear and legible. The navbar is clear and sticks to the top of the page making it easier to navigate no matter where you are on the page or what size screen you are using. |
-| Clear information about the club; where they meet, dates and times, what kind of books are read etc | This information is easily found on the website in the different relevant sections |
-| To feel welcome joining a new club. | There is a welcome message at the top of the website encouraging new members to join the book club. |
-| To be able to contact the book club if I have any questions. | The contact form allows new and existing users to contact the owners of the book club easily. Once the form is submitted, users are then directed to a thank you page giving details of next steps. |
-| Owner Goals ||
+|---|---|
+| A website that is easy to read and navigate.  | The fonts chosen for the website are clear and legible. The navbar is clear and sticks to the top of the page making it easier to navigate no matter where you are on the page or what size screen you are using.  | 
+| Clear information about the club; where they meet, dates and times, what kind of books are read etc. | This information is easily found on the website in the different relevant sections. |
+| To feel welcome joining a new club.  | There is a welcome message at the top of the website encouraging new members to join the book club. |
+| To be able to contact the book club if I have any questions.  | The contact form allows new and existing users to contact the owners of the book club easily. Once the form is submitted, users are then directed to a thank you page giving details of next steps. |
 | To provide clear and relevant information regarding the book club. | The website gives new and existing users all information they would need if they wanted to join the book club. It shows where the book club is held and which books they will be reading. |
-| To provide a place for people to ask any questions they might have regarding the club. | There is a contact us form on the website |
+| To provide a place for people to ask any questions they might have regarding the club. | There is a contact us form on the website. |
 | To give details of meeting and make new members feel welcome to join. | The welcome message is short and sweet inviting readers to join the club. |
 
 ### Bugs Discovered
