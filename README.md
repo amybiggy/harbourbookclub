@@ -196,9 +196,9 @@ I used the book cover images from Amazon for the last, now and next books. They 
 - [Amazon link to The Spanish Love Deception book](https://www.amazon.co.uk/Spanish-Love-Deception-Elena-Armas/dp/B08X7RKXGK)
 - [Amazon link to The Silent Patient book](https://www.amazon.co.uk/Silent-Patient-Alex-Michaelides/dp/1409181634)
 
-The image I used for the background of the header is from Shutterstock and can be found here:
+The image I used for the background of the header is from Unsplash and can be found here:
 
-[Library image](https://www.shutterstock.com/image-illustration/bookshelves-library-old-books-3d-render-1530516716?utm_campaign=image&utm_medium=googleimages&utm_source=schema)
+[Library image](https://unsplash.com/photos/0SYJS6nfR10)
 
 ### Code
 
