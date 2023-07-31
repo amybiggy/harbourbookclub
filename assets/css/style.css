@@ -21,6 +21,10 @@ header {
     background-color: #f4edea;
 }
 
+.footer {
+    background-color: #f4edea;
+}
+
 /*-----------------------------------------------------Heading */
 
 .navbar {
@@ -199,6 +203,18 @@ p {
     padding-bottom: 50px;
     width: 800px;
     margin-left: 250px;
+}
+
+.btn {
+    background: #f4edea;
+    color: #12263a;
+    border-style: none;
+}
+
+.btn:hover {
+    background: #06bcc1;
+    color: #06bcc1;
+    text-shadow: none;
 }
 
 /*-----------------------------------------------------Footer */
