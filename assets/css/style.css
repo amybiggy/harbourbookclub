@@ -99,6 +99,10 @@ p {
     opacity: 0.8;
 }
 
+.welcome {
+    background-color: #f4edea;
+}
+
 /*-----------------------------------------------------Our Books */
 
 .section-header {
@@ -267,8 +271,7 @@ p {
 
 @media screen and (max-width: 500px) {
     .contact-form {
-        width: 60%;
-        margin-left: 80px
+        margin: auto;
     }
 
     .map iframe {
