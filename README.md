@@ -40,6 +40,7 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 
 - [Images](#images)
 - [Code](#code)
+- [Text](#text)
 
 ## UX
 
@@ -105,7 +106,7 @@ I started the design process by sketching down my idea to detemine which layout 
 
 #### Colour Scheme
 
-The colour palette was created keeping in mind the name and location of the book club being named “Harbour Book Club” and located in a pub based in a marina. The colours are also not too bright which promotes a relaxing environment for reading.
+The colour palette was created keeping in mind the name and location of the book club being named “Harbour Book Club” and located in a pub based in a marina. The colours are also not too bright which promotes a relaxing environment for reading. I like the contrast between the dark blue and the lighter cream colour, then adding in the pop of the turquoise colour in the Our Books section. I also chose a slightly brighter blue to use when you hover over the buttons on the page.
 
 I have used a different colour backgrounds to define each section.
 
@@ -131,7 +132,7 @@ The navbar is static on the top of the page. This makes it easier to navigate wh
 
 ### Sections
 
-I have divided the website into sections to cmake it easier for the user to jump straight to the information they need. The links in the navbar will jump the user to the section of the website that contains that information. For example if you click on "Events" on the navbar, the user will be directed to the Events section of the website.
+I have divided the website into sections to make it easier for the user to jump straight to the information they need. The links in the navbar will jump the user to the section of the website that contains that information. For example if you click on "Events" on the navbar, the user will be directed to the Events section of the website.
 
 ### Links
 
@@ -197,7 +198,7 @@ I used the book cover images from Amazon for the last, now and next books. They 
 
 The image I used for the background of the header is from Unsplash and can be found here:
 
-[Library image](https://unsplash.com/photos/0SYJS6nfR10)
+[Image of someone reading a kindle on a beach](https://unsplash.com/photos/0SYJS6nfR10)
 
 ### Code
 
