@@ -1,6 +1,6 @@
 # Harbour Book Club
 
-Harbour Book Club is a simple and user-friendly site developed for readers to find and join this local book club. From the home page users can navigate to different pages which provide information on the kind of books read in the club, the meeting times/dates of the club and a contact form. Users are also able to sign up to the book club from the site.
+Harbour Book Club is a simple and user-friendly site developed for readers to find and join this local book club. From the home page users can navigate to different sections which provide information on the kind of books read in the club, the meeting times/dates of the club and a contact form. I decided to so a website for a book club as I am an avid reader and am a member of a book club myself so I wanted to do something that I would thorougly enjoy creating and also something that I would look to use myself. As a reader, I know which information I would be looking for in a book club website which helped me with the design/ creation process.
 
 The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookclub/)
 
@@ -29,6 +29,7 @@ The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookc
 - [Links](#links)
 - [Map](#map)
 - [Thank you Page](#thank-you-page)
+- [Future Features]
 
 4. [Testing](#testing)
 
@@ -170,6 +171,14 @@ I have created a Thank You page which is displayed to users after they have subm
 
 ![Thank you page](assets/documentation/images/thank-you-page.png)
 
+### Future Features
+
+In the future I would look into adding in the following to the website:
+
+- Reviews of the book club
+- Sign in / Sign up element for users to log into the site
+- Somewhere for people to track what they have read and keep a log of personal reviews of the books
+
 ## Testing
 
 I have created a separate document for the tests I conducted. It can be found [here](TESTING.md)
@@ -225,7 +234,6 @@ The image I used for the background of the header is from Unsplash and can be fo
 - Template for Navbar taken from [Bootstrap](https://getbootstrap.com/docs/5.1/components/navbar/) and customised to meet project needs
 - Template for contact form taken from [Bootstrap](https://getbootstrap.com/docs/5.1/forms/overview/) and customised to meet project needs
 - I watched [this video](https://www.youtube.com/watch?v=4U_AAGHzTok) on how to add the map into my webpage
-- Template for modal taken from [Bootstrap](https://getbootstrap.com/docs/5.1/components/modal/) and customised to meet project needs
 
 ### Text
 
