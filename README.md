@@ -1,6 +1,6 @@
 # Harbour Book Club
 
-Harbour Book Club is a simple and user-friendly site developed for readers to find and join this local book club. From the home page users can navigate to different sections which provide information on the kind of books read in the club, the meeting times/dates of the club and a contact form. I decided to so a website for a book club as I am an avid reader and am a member of a book club myself so I wanted to do something that I would thorougly enjoy creating and also something that I would look to use myself. As a reader, I know which information I would be looking for in a book club website which helped me with the design/ creation process.
+Harbour Book Club is a simple and user-friendly site developed for readers to find and join this local book club. From the home page users can navigate to different sections which provide information on the kind of books read in the club, the meeting times/dates of the club and a contact form. I decided to do a website for a book club as I am an avid reader and am a member of a book club myself so I wanted to do something that I would thorougly enjoy creating and also something that I would look to use myself. As a reader, I know which information I would be looking for in a book club website which helped me with the design/ creation process.
 
 The site address is: [Harbour Book Club](https://amybiggy.github.io/harbourbookclub/)
 
@@ -62,7 +62,7 @@ As the owner of the club I want:
 
 1. To provide clear and relevant information regarding the book club
 2. To provide a place for people to ask any questions they might have regarding the club
-3. To give details of meeting and make new members feel welcome to join
+3. To give details of meetings and make new members feel welcome to join
 
 ### Goals
 
@@ -95,7 +95,7 @@ The site targets readers who are looking for other people who share their hobby 
 
 ### Communication
 
-The website is designed so that anyone would be able to access it and easily identify the information they are looking for. All pages are clearly labelled with the information you would find on there, including the Sign Up button and contact us form.
+The website is designed so that anyone would be able to access it and easily identify the information they are looking for. All sections are clearly labelled with the information you would find on there, including the contact us form.
 
 ## Design
 
@@ -189,7 +189,7 @@ I used a variety of technologies throughout the project.
 
 - I used HTML and CSS to create and style the website
 - I used [Code Anywhere](https://app.codeanywhere.com/) as the development environment
-- I used Bootstrap to create a responsive navbar, contact form and modal [Bootstrap Website](https://getbootstrap.com/)
+- I used Bootstrap to create a responsive navbar and contact form [Bootstrap Website](https://getbootstrap.com/)
 - I used Github to create a repository for my project [Github Website](https://github.com/)
 - I used Balsamiq to design my wireframes [Balsamiq Website](https://balsamiq.com/)
 - I used Canva to design a simple logo [Canva](https://www.canva.com/)

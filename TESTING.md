@@ -50,9 +50,9 @@ I used (pagespeed.web.dev) to check the accessability of my website to check tha
 
 ### Bugs Discovered
 
-When I was checking whether my website was responsive on different screen sizes, I doscovered that anything smaller than a laptop wouldn't show the map or contact form correct so I added in media queries to my CSS and this fixed the issue.
+When I was checking whether my website was responsive on different screen sizes, I discovered that anything smaller than a laptop wouldn't show the map or contact form correct so I added in media queries to my CSS and this fixed the issue.
 
-I was having an issue with the text in my header overflowing into the section below due to the vh size I had set on the header image. I changed this size and made it slightly larger which fixed the issue
+I was having an issue with the text in my header overflowing into the section below due to the vh size I had set on the header image. I changed this size and made it slightly larger which fixed the issue.
 
 When viewing my website on smaller screens I was having an issue with the navbar. It was opening fine, but wouldn't collapse back again. I watched a video on youtube and realised that I had the incorrect scripts in my html. I changed these for the correct one and it fixed the issue.
 
