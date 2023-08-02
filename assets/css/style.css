@@ -301,6 +301,11 @@ p {
         width: 100%;
         margin-left: 0px;
     }
+
+    .welcome-paragraph {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
 }
 
 /*--This media query relates to tablet screen sizes--*/
@@ -386,6 +391,8 @@ p {
 
     .welcome-paragraph {
         font-size: 20px;
+        margin-left: 30px;
+        margin-right: 30px;
     }
 
     .logo {
@@ -403,6 +410,11 @@ p {
 @media screen and (max-width: 320px) {
     .beach-kindle {
         margin-top: 103px;
+    }
+
+    .welcome-paragraph {
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 
