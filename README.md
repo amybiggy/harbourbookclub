@@ -128,7 +128,15 @@ I chose the font Edu SA Beginner for the text parts of the website as I wanted t
 
 ### Navbar
 
-The navbar is static on the top of the page. This makes it easier to navigate when you are viewing the website on a smaller screen size. If it was not static at the top, the website is quite long to have to scroll back up to the top of the page. This way, you can jump straight back to the top by clicking the Harbour Book Club name on the navbar.
+I used a light coloured navbar to keep in line with the websites colour theme. The navbar contains the logo and book club name on the left side and on the right side are all the navigation elements. There is a hover over effect on the navigation elements of the navbar. The navbar is static on the top of the page. This makes it easier to navigate when you are viewing the website on a smaller screen size. If it was not static at the top, the website is quite long to have to scroll back up to the top of the page. This way, you can jump straight back to the top by clicking the Harbour Book Club name on the navbar.
+
+![Navbar](assets/documentation/images/navbar.png)
+
+### Footer
+
+The footer section of the website is fairly simple and just includes links to social media sites and the webpage of the book club venue. I didn't want to include too much information in the footer as I wanted it to be easy to navigate so I kept the majority of the information in the main body of the website.
+
+![Footer](assets/documentation/images/footer.png)
 
 ### Sections
 
@@ -139,16 +147,28 @@ I have divided the website into sections to make it easier for the user to jump 
 I have added links to my website to make it easier for the user to find information they might need
 
 - I have added links to the images of the books which send you to the book on the Waterstones website which will make it easier for the user to purchase the right books if needed.
+
+![Book links](assets/documentation/images/book-links.png)
+
 - I have added links to social media sites which would add an extra element of conectivity if the user wished to follow the book club on them.
+
+![Social media links](assets/documentation/images/social-media-links.png)
+
 - I have added a link to the venue website so that users are able to gain any information needed on where the book club will be held.
+
+![Venue link](assets/documentation/images/venue-link.png)
 
 ### Map
 
-I have added an interactive map to the website to enable users to get directions to the venue if needed.
+I have added an interactive map to the website to enable new users to get directions to the venue if needed. Anyone is able to follow the link in the map to Google Maps and get directions from wherever they are. This was very important for me to be able to give as much information as possible to the user.
+
+![Location map](assets/documentation/images/location-map.png)
 
 ### Thank you Page
 
-I have created a Thank You page which is displayed to users after they have submitted the contact form. Prior to adding this, the user was sent back to the top of the page, but I feel that this is important as it acknowledges that the message sent by the user and explains the next steps for them.
+I have created a Thank You page which is displayed to users after they have submitted the contact form. Prior to adding this, the user was sent back to the top of the page, but I feel that this is important as it acknowledges that the message sent by the user and explains the next steps for them. I kept the styling of this page the same as the main page in order to keep continuity throughout.
+
+![Thank you page](assets/documentation/images/thank-you-page.png)
 
 ## Testing
 
